@@ -1,6 +1,7 @@
-[submodule "frontend"]
-	path = frontend
-	url = https://github.com/CodeDontBlow/Tecsys-frontend.git
-[submodule "backend"]
-	path = backend
-	url = https://github.com/CodeDontBlow/Tecsys-backend.git
+
+[submodule "Tecsys-Frontend"]
+	path = Tecsys-Frontend
+	url = https://github.com/codedontblow-org/Tecsys-Frontend.git
+[submodule "Tecsys-backend"]
+	path = Tecsys-backend
+	url = https://github.com/codedontblow-org/Tecsys-backend.git
